@@ -23,15 +23,16 @@ role: Postdoctoral Associate
 organizations:
   - name: Duke University
     url: https://duke.edu/
+  - name: Email: hanwen.yao@duke.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include classical and quantum coding theory.
+# bio: My research interests include classical and quantum coding theory.
 
 # Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+# interests:
+#   - Artificial Intelligence
+#   - Computational Linguistics
+#   - Information Retrieval
 
 # Education to show in About widget
 education:
